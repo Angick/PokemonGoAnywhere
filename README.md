@@ -4,4 +4,4 @@ Please use the official PP Sideloader to sideload PokemonGo++ (and more!): https
 
 It uses a more reliable method and doesn't rely on Cydia Substrate!
 
-(if you still want to peek at TweakPatcher's code, check the master branch!)
+(if you still want to view the original file, check the master branch!)
